@@ -1,0 +1,15 @@
+backend-projects/
+├── README.md
+└── projects/
+    ├── node-api/
+    │   ├── server.js
+    │   ├── package.json
+    │   └── .env
+    ├── django-app/
+    │   ├── manage.py
+    │   ├── requirements.txt
+    │   └── app/
+    └── flask-app/
+        ├── app.py
+        ├── requirements.txt
+        └── config.py
